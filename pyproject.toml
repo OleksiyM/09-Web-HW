@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "09-web-hw"
+name = "09-web-hw Scraper and parser"
 version = "0.1.0"
-description = ""
-authors = ["OleksiyM <oleksiymaliovanyy@gmail.com>"]
+description = "scrape quotes and author information from the website https://quotes.toscrape.com"
+authors = ["OleksiyM <OleksiyM@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
