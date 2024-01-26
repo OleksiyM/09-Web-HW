@@ -1,4 +1,4 @@
- **# Scraper and Parser**
+# Scraper and Parser
 
 ## Overview
 
@@ -72,7 +72,7 @@ This project scrapes quotes and author information from the website [https://quo
 * Threading
 * JSON
 
-## Threading**
+## Threading
 
 This project leverages multithreading to enhance performance and efficiency during the scraping process. It employs the Python `threading` module to execute tasks concurrently:
 
